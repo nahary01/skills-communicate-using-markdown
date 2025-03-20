@@ -11,3 +11,6 @@ public static void main(String[] args){
     System.out.println(message);
  }
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
